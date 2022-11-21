@@ -1,2 +1,2 @@
 # Test-Cases
-Hi. You can find some test-cases in this repo.
+Для просмотра тест-кейсов скачайте файл Test-case.ods
